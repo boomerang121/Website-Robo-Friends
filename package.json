@@ -1,5 +1,6 @@
 {
   "name": "robofriends",
+  "homepage":"https://boomerang121.github.io/Website-Robo-Friends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
